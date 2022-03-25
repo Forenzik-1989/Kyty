@@ -1,9 +1,9 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/0du32fg9flol63to?svg=true)](https://ci.appveyor.com/project/InoriRus/kyty)
 
 # Kyty
-ps4 & ps5 emulator
+PS4 & PS5 emulator
 -----
-The project is in its early stage.
+The project is in its early stages.
 
 [Vladimir M](mailto:inorirus@gmail.com)
 
